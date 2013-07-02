@@ -1,4 +1,4 @@
-<script>
+v#!/usr/bin/env node
 
 function isPrime(tryNumber)
 {
@@ -36,4 +36,4 @@ while (counter <= 100)
 
 }
 
-</script>
+
